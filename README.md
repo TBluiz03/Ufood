@@ -11,6 +11,22 @@ Pode ocorre também:
 •alunos não sabem antecipadamente quais produtos estão disponíveis;
 •pagamentos são realizados somente no momento da retirada.
 
+5)
+o principal problema é a dificuldade do atendimento na cantina por conta de ter muitos alunos ao mesmo tempo e assim atrasando a entrega do pedido e fazendo o aluno perder aula ou ate mesmo desistir de comer por conta de grandes filas , e além do problema para o aluno tem o problema para o funcionário que também sofre com isso pois ele tem q acelerar a produção e recebe a informação do que tem que preparar em cima da hora dando menos tempo para fazer . Com o sistema os alunos poderão pedir antes do intervalo e os funcionários vão poder ter mais calma para preparar os pratos .
+
+
+6)
+1. pode ter uma pagina num app ou site para os alunos mostrando o cardápio e o que tem disponível 
+2. ele pode usar seu RA para "cadastrar" e assim fazer o pedido selecionando
+3. recebe no "painel de administrador" no qual ele pode ver os pedidos recebidos e poder alterar caso algum produto apareça novamente em estoque 
+4. por uma tela ou chamando pelo RA do aluno
+5. aparecer como "acabou o estoque" e que não seja possível selecionar
+6. o aluno pode mostrar o comprovante e seu numero no pedido pelo celular
+7. depois do pagamento não será possível cancelar
+8. pode ter um status de "enviado | preparando | Pronto"
+9. nome do produto , código do produto e preço 
+10. nome do produto , código do produto , preço e comprovante
+
 
 7. Etapa 3 - Criando as primeiras Histórias de Usuário
 1-Como cliente quero visualizar apenas os produtos disponíveis pela cantina, para assim não perder tempo vendo produtos já esgotados.
