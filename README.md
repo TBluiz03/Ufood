@@ -100,7 +100,7 @@ Pode ocorre também:
 •O funcionário deve atualizar o cliente sobre o status do pedido.
 •O cliente deve ser notificado assim que o produto estiver pronto
 
-#Decomposição do trabalho
+# Decomposição do trabalho
 História: Visualizar produtos disponíveis.
 criar estrutura da entidade Produto;
 criar migration da tabela de produtos;
