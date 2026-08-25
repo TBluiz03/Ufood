@@ -7,6 +7,7 @@ Luiz Felipe
 Luiz Otávio
 
 
+
 # Scrum Master
 -Leonardo Honorato Pereira
 
