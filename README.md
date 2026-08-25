@@ -13,3 +13,13 @@ Pode ocorre também:
 
 
 
+1-Como cliente quero visualizar apenas os produtos disponíveis pela cantina, para assim não perder tempo vendo produtos já esgotados.
+2-Como cliente quero fazer o pedido antecipadamente, para que não seja necessário esperar na fila.
+3-Como cliente quero ver todas as formas de pagamento disponíveis, como cartão, dinheiro, pix, para saber se posso pagar com a opção que tenho no momento.
+4-Como funcionário quero ser notificado pelo aplicativo através de um sinal sonoro, assim que um novo pedido for criado, para que não haja atrasos.
+5-Como funcionário quero que o sistema coloque em ordem de cronológica os pedidos, para que assim não haja reclamações por atraso
+6-Como funcionário quero que o sistema atualize e me avise em uma aba de notificações quais produtos estão esgotados e precisam ser repostos na cantina
+7-Como gerente da cantina quero que o sistema me mostre em um ranking quais produtos vendem mais e quais vendem menos para saber em quais devo investir mais ou menos
+8- Como cliente quero poder opinar sobre produtos aos quais eu comprei para que o gerente possa manter ou retirar do cardápio trocando por outros produtos melhores
+9- Como funcionário quero uma forma fácil de comprovar que determinado pedido é do cliente em questão evitando entrega de pedidos errados.
+10- Como gerente quero de ver um relatório financeiro para saber o faturamento, lucro, custos etc.
