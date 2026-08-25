@@ -1,10 +1,14 @@
 # 🍕Ufood 
 
 # Integrantes do grupo
-Leonardo Honorato Pereira
-Jonathan Ishida
-Luiz Felipe
-Luiz Otávio
+•Leonardo Honorato Pereira
+
+•Jonathan Ishida
+
+•Luiz Felipe
+
+•Luiz Otávio
+
 
 
 
