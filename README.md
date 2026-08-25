@@ -12,7 +12,7 @@ Pode ocorre também:
 •pagamentos são realizados somente no momento da retirada.
 
 
-
+7.
 1-Como cliente quero visualizar apenas os produtos disponíveis pela cantina, para assim não perder tempo vendo produtos já esgotados.
 2-Como cliente quero fazer o pedido antecipadamente, para que não seja necessário esperar na fila.
 3-Como cliente quero ver todas as formas de pagamento disponíveis, como cartão, dinheiro, pix, para saber se posso pagar com a opção que tenho no momento.
@@ -23,3 +23,14 @@ Pode ocorre também:
 8- Como cliente quero poder opinar sobre produtos aos quais eu comprei para que o gerente possa manter ou retirar do cardápio trocando por outros produtos melhores
 9- Como funcionário quero uma forma fácil de comprovar que determinado pedido é do cliente em questão evitando entrega de pedidos errados.
 10- Como gerente quero de ver um relatório financeiro para saber o faturamento, lucro, custos etc.
+
+8.
+1-Como cliente quero visualizar apenas os produtos disponíveis pela cantina, para assim não perder tempo vendo produtos já esgotados.
+	-Os produtos disponíveis aparecem primeiro no aplicativo e os esgotados em último lugar, assim o cliente não perde tempo rolando a tela procurando um produto já esgotado
+	-Os produtos devem ter nome e preço
+	-Os clientes podem visualizar o produtos mesmo sem ter uma conta
+	-Os produtos indisponíveis aparecem em cinza com uma marcação em vermelho escrito: "ESGOTADO", enquanto os produtos disponíveis aparecem com a coloração padrão da foto do produto
+
+3-Como cliente quero ver todas as formas de pagamento disponíveis, como cartão, dinheiro, pix, para saber se posso pagar com a opção que tenho no momento.
+	- As formas de pagamento aparecem com nome e preço logo abaixo, indicando se determinada opção tem desconto ou juros, exemplo: em dinheiro o valor tem um determinado desconto, no cartão teria um acréscimo.
+	- Caso uma opção de pagamento não esteja sendo aceita pro algum motivo, como problemas de conexão com o sistema bancário, essa opção deve ser ocultada do usuário
