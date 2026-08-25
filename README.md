@@ -101,19 +101,19 @@ Pode ocorre também:
 •O cliente deve ser notificado assim que o produto estiver pronto
 
 # Decomposição do trabalho
-História: Visualizar produtos disponíveis.
-criar estrutura da entidade Produto;
-criar migration da tabela de produtos;
-criar endpoint para listar produtos;
-criar interface de listagem;
-integrar frontend com o API
+- História: Visualizar produtos disponíveis.
+  - criar estrutura da entidade Produto;
+  - criar migration da tabela de produtos;
+  - criar endpoint para listar produtos;
+  - criar interface de listagem;
+  - integrar frontend com o API
 
-História: Visualizar pagamentos disponíveis.
-criar estrutura da entidade Pagamentos;
-criar migration da tabela de pagamentos;
-criar endpoint para listar pagamentos;
-criar interface de listagem;
-integrar frontend com a API
+- História: Visualizar pagamentos disponíveis.
+  - criar estrutura da entidade Pagamentos;
+  - criar migration da tabela de pagamentos;
+  - criar endpoint para listar pagamentos;
+  - criar interface de listagem;
+  - integrar frontend com a API
 
 
 
