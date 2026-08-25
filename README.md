@@ -12,10 +12,14 @@ Pode ocorre também:
 •pagamentos são realizados somente no momento da retirada.
 
 5)
-o principal problema é a dificuldade do atendimento na cantina por conta de ter muitos alunos ao mesmo tempo e assim atrasando a entrega do pedido e fazendo o aluno perder aula ou ate mesmo desistir de comer por conta de grandes filas , e além do problema para o aluno tem o problema para o funcionário que também sofre com isso pois ele tem q acelerar a produção e recebe a informação do que tem que preparar em cima da hora dando menos tempo para fazer . Com o sistema os alunos poderão pedir antes do intervalo e os funcionários vão poder ter mais calma para preparar os pratos .
+o principal problema é a dificuldade do atendimento na cantina por conta de ter muitos alunos
+ao mesmo tempo e assim atrasando a entrega do pedido e fazendo o aluno perder aula ou ate mesmo desistir de comer por conta de grandes filas ,
+e além do problema para o aluno tem o problema para o funcionário que também sofre com isso pois ele tem q acelerar a produção e recebe a informação do
+que tem que preparar em cima da hora dando menos tempo para fazer . Com o sistema os alunos poderão pedir antes do intervalo e os funcionários
+vão poder ter mais calma para preparar os pratos .
 
 
-6)
+7)
 1. pode ter uma pagina num app ou site para os alunos mostrando o cardápio e o que tem disponível 
 2. ele pode usar seu RA para "cadastrar" e assim fazer o pedido selecionando
 3. recebe no "painel de administrador" no qual ele pode ver os pedidos recebidos e poder alterar caso algum produto apareça novamente em estoque 
