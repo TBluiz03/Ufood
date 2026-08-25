@@ -1,4 +1,16 @@
-# Ufood
+# 🍕Ufood 
+
+# Integrantes do grupo
+-Leonardo Honorato Pereira
+-Jonathan Ishida
+-Luiz Felipe
+-Luiz Otávio
+
+# Scrum Master
+-Leonardo Honorato Pereira
+
+
+# Objetivo
 Aplicação destinada à verificação e compra de alimentos fornecidos pela cantina da universidade, O projeto visa reduzir o tempo de espera nas filas, 
 aumentar a eficiência das vendas e automatizar a gestão de pedidos para o estabelecimento.
 
@@ -11,6 +23,10 @@ Pode ocorre também:
 •alunos não sabem antecipadamente quais produtos estão disponíveis;
 •pagamentos são realizados somente no momento da retirada.
 
+# Usuários
+👳- Funcionario
+👨- Cliente
+👨‍💼- Gerente
 
 # Funcionalidades Iniciais
 1. pode ter uma pagina num app ou site para os alunos mostrando o cardápio e o que tem disponível 
@@ -37,7 +53,8 @@ Pode ocorre também:
 9- Como funcionário quero uma forma fácil de comprovar que determinado pedido é do cliente em questão evitando entrega de pedidos errados.
 10- Como gerente quero de ver um relatório financeiro para saber o faturamento, lucro, custos etc.
 
-# Critérios de Aceitação
+# Critérios de Aceitação e MVP: Menor versão do produto
+
 1-Como cliente quero visualizar apenas os produtos disponíveis pela cantina, para assim não perder tempo vendo produtos já esgotados.
 -Os produtos disponíveis aparecem primeiro no aplicativo e os esgotados em último lugar, assim o cliente não perde tempo rolando a tela procurando um produto já esgotado
 -Os produtos devem ter nome e preço
@@ -61,3 +78,9 @@ Pode ocorre também:
 •O funcionário deve atualizar no app o status do produto para "Em Preparo".
 •O funcionário deve atualizar o cliente sobre o status do pedido.
 •O cliente deve ser notificado assim que o produto estiver pronto
+
+
+
+
+
+
