@@ -12,7 +12,7 @@ Pode ocorre também:
 •pagamentos são realizados somente no momento da retirada.
 
 
-7.
+7. Etapa 3 - Criando as primeiras Histórias de Usuário
 1-Como cliente quero visualizar apenas os produtos disponíveis pela cantina, para assim não perder tempo vendo produtos já esgotados.
 2-Como cliente quero fazer o pedido antecipadamente, para que não seja necessário esperar na fila.
 3-Como cliente quero ver todas as formas de pagamento disponíveis, como cartão, dinheiro, pix, para saber se posso pagar com a opção que tenho no momento.
@@ -24,7 +24,7 @@ Pode ocorre também:
 9- Como funcionário quero uma forma fácil de comprovar que determinado pedido é do cliente em questão evitando entrega de pedidos errados.
 10- Como gerente quero de ver um relatório financeiro para saber o faturamento, lucro, custos etc.
 
-8.
+8. Etapa 4 - Critérios de Aceitação
 1-Como cliente quero visualizar apenas os produtos disponíveis pela cantina, para assim não perder tempo vendo produtos já esgotados.
 	-Os produtos disponíveis aparecem primeiro no aplicativo e os esgotados em último lugar, assim o cliente não perde tempo rolando a tela procurando um produto já esgotado
 	-Os produtos devem ter nome e preço
