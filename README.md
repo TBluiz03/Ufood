@@ -107,14 +107,16 @@ Pode ocorre também:
   - criar migration da tabela de produtos;
   - criar endpoint para listar produtos;
   - criar interface de listagem;
-  - integrar frontend com o API
+  - integrar frontend com o API;
+  - testes.
 
 - História: Visualizar pagamentos disponíveis.
   - criar estrutura da entidade Pagamentos;
   - criar migration da tabela de pagamentos;
   - criar endpoint para listar pagamentos;
   - criar interface de listagem;
-  - integrar frontend com a API
+  - integrar frontend com a API;
+  - testes.
 
 
 
