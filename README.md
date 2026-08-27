@@ -54,6 +54,7 @@ Pode ocorre também:
 1-Como cliente quero visualizar apenas os produtos disponíveis pela cantina, para assim não perder tempo vendo produtos já esgotados.
 
 2-Como cliente quero fazer o pedido antecipadamente, para que não seja necessário esperar na fila.
+
 3-Como cliente quero ver todas as formas de pagamento disponíveis, como cartão, dinheiro, pix, para saber se posso pagar com a opção que tenho no momento.
 
 4-Como funcionário quero ser notificado pelo aplicativo através de um sinal sonoro, assim que um novo pedido for criado, para que não haja atrasos.
