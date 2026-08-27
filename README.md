@@ -37,39 +37,39 @@ Pode ocorre também:
 
 # Funcionalidades Iniciais
 
-1. pode ter uma pagina num app ou site para os alunos mostrando o cardápio e o que tem disponível 
-2. ele pode usar seu RA para "cadastrar" e assim fazer o pedido selecionando
-3. recebe no "painel de administrador" no qual ele pode ver os pedidos recebidos e poder alterar caso algum produto apareça novamente em estoque 
-4. por uma tela ou chamando pelo RA do aluno
-5. aparecer como "acabou o estoque" e que não seja possível selecionar
-6. o aluno pode mostrar o comprovante e seu numero no pedido pelo celular
-7. depois do pagamento não será possível cancelar
-8. pode ter um status de "enviado | preparando | Pronto"
-9. nome do produto , código do produto e preço 
-10. nome do produto , código do produto , preço e comprovante
+1. pode ter uma pagina num app ou site para os alunos mostrando o cardápio e o que tem disponível. 
+2. ele pode usar seu RA para "cadastrar" e assim fazer o pedido selecionando.
+3. recebe no "painel de administrador" no qual ele pode ver os pedidos recebidos e poder alterar caso algum produto apareça novamente em estoque.
+4. por uma tela ou chamando pelo RA do aluno.
+5. aparecer como "acabou o estoque" e que não seja possível selecionar.
+6. o aluno pode mostrar o comprovante e seu numero no pedido pelo celular.
+7. depois do pagamento não será possível cancelar.
+8. pode ter um status de "enviado | preparando | Pronto".
+9. nome do produto , código do produto e preço. 
+10. nome do produto , código do produto , preço e comprovante.
 
 
 # Criando as primeiras Histórias de Usuário
 
-1 - Como cliente quero visualizar apenas os produtos disponíveis pela cantina, para assim não perder tempo vendo produtos já esgotados.
+1. Como cliente quero visualizar apenas os produtos disponíveis pela cantina, para assim não perder tempo vendo produtos já esgotados.
 
-2 - Como cliente quero fazer o pedido antecipadamente, para que não seja necessário esperar na fila.
+2. Como cliente quero fazer o pedido antecipadamente, para que não seja necessário esperar na fila.
 
-3 - Como cliente quero ver todas as formas de pagamento disponíveis, como cartão, dinheiro, pix, para saber se posso pagar com a opção que tenho no momento.
+3. Como cliente quero ver todas as formas de pagamento disponíveis, como cartão, dinheiro, pix, para saber se posso pagar com a opção que tenho no momento.
 
-4 - Como funcionário quero ser notificado pelo aplicativo através de um sinal sonoro, assim que um novo pedido for criado, para que não haja atrasos.
+4. Como funcionário quero ser notificado pelo aplicativo através de um sinal sonoro, assim que um novo pedido for criado, para que não haja atrasos.
 
-5 - Como funcionário quero que o sistema coloque em ordem de cronológica os pedidos, para que assim não haja reclamações por atraso.
+5. Como funcionário quero que o sistema coloque em ordem de cronológica os pedidos, para que assim não haja reclamações por atraso.
 
-6 - Como funcionário quero que o sistema atualize e me avise em uma aba de notificações quais produtos estão esgotados e precisam ser repostos na cantina.
+6. Como funcionário quero que o sistema atualize e me avise em uma aba de notificações quais produtos estão esgotados e precisam ser repostos na cantina.
 
-7 - Como gerente da cantina quero que o sistema me mostre em um ranking quais produtos vendem mais e quais vendem menos para saber em quais devo investir mais ou menos.
+7. Como gerente da cantina quero que o sistema me mostre em um ranking quais produtos vendem mais e quais vendem menos para saber em quais devo investir mais ou menos.
 
-8 - Como cliente quero poder opinar sobre produtos aos quais eu comprei para que o gerente possa manter ou retirar do cardápio trocando por outros produtos melhores.
+8. Como cliente quero poder opinar sobre produtos aos quais eu comprei para que o gerente possa manter ou retirar do cardápio trocando por outros produtos melhores.
 
-9 - Como funcionário quero uma forma fácil de comprovar que determinado pedido é do cliente em questão evitando entrega de pedidos errados.
+9. Como funcionário quero uma forma fácil de comprovar que determinado pedido é do cliente em questão evitando entrega de pedidos errados.
 
-10 - Como gerente quero ver um relatório financeiro para saber o faturamento, lucro, custos etc.
+10. Como gerente quero ver um relatório financeiro para saber o faturamento, lucro, custos etc.
 
 # Critérios de Aceitação e MVP: Menor versão do produto
 
@@ -91,7 +91,7 @@ Pode ocorre também:
 3 - Como cliente quero ver todas as formas de pagamento disponíveis, como cartão, dinheiro, pix, para saber se posso pagar com a opção que tenho no momento.
 
 - As formas de pagamento aparecem com nome e preço logo abaixo, indicando se determinada opção tem desconto ou juros, exemplo: em dinheiro o valor tem um determinado desconto, no cartão teria um acréscimo.
-- Caso uma opção de pagamento não esteja sendo aceita pro algum motivo, como problemas de conexão com o sistema bancário, essa opção deve ser ocultada do usuário.
+- Caso uma opção de pagamento não esteja sendo aceita por algum motivo, como problemas de conexão com o sistema bancário, essa opção deve ser ocultada do usuário.
 
 4 - Como funcionário quero ser notificado pelo aplicativo através de um sinal sonoro, assim que um novo pedido for criado, para que não haja atrasos.
 
