@@ -1,13 +1,14 @@
-# 🍕Ufood 
-
+# 🍕Ufood
+https://github.com/TBluiz03/Ufood
+https://github.com/TBluiz03/Ufood/projects
 # Integrantes do grupo
 - Leonardo Honorato Pereira
 
 - Jonathan Ishida Biazollo
 
-- Luiz Felipe
+- Luiz Felipe Santos Soares
 
-- Luiz Otávio
+- Luiz Otávio Vieira Guimarães
 
 
 
